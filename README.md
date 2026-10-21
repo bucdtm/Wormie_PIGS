@@ -24,7 +24,7 @@ El ecosistema se divide en dos aplicaciones conectadas a una base de datos centr
 * **Ciclo de Préstamos:** Concesión de préstamos con margen de devolución previsto de 7 a 14 días.
 * **Sistema de Sanciones:** Superar la fecha límite genera penalizaciones automáticas e importes asociados según la gravedad del retraso.
 * **Resolución de Reservas:** Ante alta demanda de un mismo ejemplar, el sistema prioriza por orden de reserva y, en caso de empate, por menor historial de sanciones.
-
+  https://trello.com/invite/b/6990b2f5de37ea4079972ab8/ATTI00ab6d3864c5e56aa1e30f102a241708CE247EE5/wormie
 ---
 
 ### <img src="https://api.iconify.design/lucide:users.svg" width="18" height="18" /> Autores
